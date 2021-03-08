@@ -1,2 +1,2 @@
-# minatto1.github.io
+# http://minatto1.github.io
 My project
