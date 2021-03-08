@@ -1,4 +1,4 @@
-# Live LoL Esports
+# Artur live
 
 ## 📦 Dependências e programas utilizados
 
